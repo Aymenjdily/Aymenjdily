@@ -179,26 +179,31 @@ I share my thoughts on development, entrepreneurship, and building products that
 ## 📈 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/aymenjdily">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aymenjdily&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/aymenjdily">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenjdily&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
+  </a>
+</div>
 
-<a href="https://github.com/aymenjdily">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aymenjdily&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
+<div align="center">
+  <a href="https://github.com/aymenjdily">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=aymenjdily&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+  </a>
+</div>
 
-<a href="https://github.com/aymenjdily">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenjdily&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" />
-</a>
+<div align="center">
+  
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=aymenjdily&color=000000&style=for-the-badge)
 
 </div>
 
 <div align="center">
-
-<a href="https://github.com/aymenjdily">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=aymenjdily&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
-</a>
+  
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aymenjdily&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
 
 </div>
-
-> **Note:** If stats don't appear, make sure your GitHub profile is public and replace `aymenjdily` with your actual GitHub username.
 
 ---
 
