@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aymenjdily.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aymenjdily.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymenjdily)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aymenjdily)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@aymenjdily.com)
 
 </div>
@@ -179,13 +180,25 @@ I share my thoughts on development, entrepreneurship, and building products that
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymenjdily&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
+<a href="https://github.com/aymenjdily">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aymenjdily&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenjdily&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=aymenjdily&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+<a href="https://github.com/aymenjdily">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenjdily&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
+
+<div align="center">
+
+<a href="https://github.com/aymenjdily">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=aymenjdily&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+</a>
+
+</div>
+
+> **Note:** If stats don't appear, make sure your GitHub profile is public and replace `aymenjdily` with your actual GitHub username.
 
 ---
 
