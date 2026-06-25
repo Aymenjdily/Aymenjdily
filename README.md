@@ -1,16 +1,22 @@
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=Aymen+Jdily" alt="Aymen Jdily" /&gt;
+&lt;/p&gt;
 
-# Aymen Jdily
+&lt;p align="center"&gt;
+  &lt;b&gt;Frontend Engineer · Content Creator · Hackathon Mentor&lt;/b&gt;
+&lt;/p&gt;
 
-**Frontend Engineer · Content Creator · Hackathon Mentor**
+&lt;p align="center"&gt;
+  I ship production-ready MVPs in &lt;b&gt;2–4 weeks&lt;/b&gt;.
+&lt;/p&gt;
 
-I ship production-ready MVPs in **2–4 weeks**.
-
-[Portfolio](https://www.aymenjdily.com) · [LinkedIn](https://linkedin.com/in/aymenjdily) · [YouTube](https://youtube.com/@aymenjdily)
+&lt;p align="center"&gt;
+  &lt;a href="https://www.aymenjdily.com"&gt;Portfolio&lt;/a&gt; · 
+  &lt;a href="https://linkedin.com/in/aymenjdily"&gt;LinkedIn&lt;/a&gt; · 
+  &lt;a href="https://youtube.com/@aymenjdily"&gt;YouTube&lt;/a&gt;
+&lt;/p&gt;
 
 ---
-
-&lt;/div&gt;
 
 ## What I Do
 
@@ -22,16 +28,18 @@ I ship production-ready MVPs in **2–4 weeks**.
 ## The Numbers
 
 | MVPs Shipped | Students Taught | Hackathons Mentored | Years Building |
-|-------------|----------------|---------------------|----------------|
-| 18 | 10K+ | 2 | 4 |
+|:------------:|:-------------:|:-------------------:|:--------------:|
+| **18** | **10K+** | **2** | **4** |
 
 ## Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+&lt;p align="left"&gt;
+  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /&gt;
+  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /&gt;
+&lt;/p&gt;
 
 ## Currently
 
@@ -41,10 +49,7 @@ I ship production-ready MVPs in **2–4 weeks**.
 
 ---
 
-&lt;div align="center"&gt;
-
-**Open to freelance & full-time opportunities.**
-
-*This profile is always current.*
-
-&lt;/div&gt;
+&lt;p align="center"&gt;
+  &lt;b&gt;Open to freelance & full-time opportunities.&lt;/b&gt;&lt;br&gt;
+  &lt;i&gt;This profile is always current.&lt;/i&gt;
+&lt;/p&gt;
